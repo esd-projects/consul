@@ -13,13 +13,9 @@ use Psr\Log\LoggerInterface;
 use SensioLabs\Consul\Client;
 use SensioLabs\Consul\Services\Agent;
 use SensioLabs\Consul\Services\AgentInterface;
-use SensioLabs\Consul\Services\Catalog;
 use SensioLabs\Consul\Services\CatalogInterface;
-use SensioLabs\Consul\Services\Health;
 use SensioLabs\Consul\Services\HealthInterface;
-use SensioLabs\Consul\Services\KV;
 use SensioLabs\Consul\Services\KVInterface;
-use SensioLabs\Consul\Services\Session;
 use SensioLabs\Consul\Services\SessionInterface;
 
 final class ServiceFactory
