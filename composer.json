@@ -1,0 +1,23 @@
+{
+  "require": {
+    "sensiolabs/consul-php-sdk": "^3.1",
+    "go-swoole/guzzle-saber":"dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "GoSwoole\\Consul\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "tmtbe",
+      "email": "896369042@qq.com",
+      "homepage": "https://github.com/tmtbe"
+    }
+  ],
+  "name": "go-swoole/consul",
+  "type": "library",
+  "keywords": ["server", "swoole"],
+  "description": "consul",
+  "license": "MIT"
+}
