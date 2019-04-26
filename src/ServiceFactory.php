@@ -11,7 +11,6 @@ namespace GoSwoole\Consul;
 use GoSwoole\GuzzleSaber\SaberClient;
 use Psr\Log\LoggerInterface;
 use SensioLabs\Consul\Client;
-use SensioLabs\Consul\Services\Agent;
 use SensioLabs\Consul\Services\AgentInterface;
 use SensioLabs\Consul\Services\CatalogInterface;
 use SensioLabs\Consul\Services\HealthInterface;
