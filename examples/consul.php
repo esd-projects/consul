@@ -7,7 +7,7 @@
  */
 require __DIR__ . '/../vendor/autoload.php';
 
-use GoSwoole\Consul\ServiceFactory;
+use ESD\Consul\ServiceFactory;
 use SensioLabs\Consul\ConsulResponse;
 use SensioLabs\Consul\Services\KVInterface;
 use SensioLabs\Consul\Services\SessionInterface;

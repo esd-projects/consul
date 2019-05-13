@@ -6,9 +6,9 @@
  * Time: 13:56
  */
 
-namespace GoSwoole\Consul;
+namespace ESD\Consul;
 
-use GoSwoole\GuzzleSaber\SaberClient;
+use ESD\GuzzleSaber\SaberClient;
 use Psr\Log\LoggerInterface;
 use SensioLabs\Consul\Client;
 use SensioLabs\Consul\Services\AgentInterface;

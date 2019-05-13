@@ -6,7 +6,7 @@
  * Time: 15:28
  */
 
-namespace GoSwoole\Consul;
+namespace ESD\Consul;
 
 
 use SensioLabs\Consul\Client;
